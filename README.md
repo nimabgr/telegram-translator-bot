@@ -22,7 +22,7 @@ If you want to run your own instance of the bot, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/nimabgr/telegram-translator-bot.git](https://github.com/nimabgr/telegram-translator-bot.git)
+    git clone https://github.com/nimabgr/telegram-translator-bot.git
     cd telegram-translator-bot
     ```
 
